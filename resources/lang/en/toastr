@@ -1,0 +1,29 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Authentication Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used during authentication for various
+    | messages that we need to display to the user. You are free to modify
+    | these language lines according to your application's requirements.
+    |
+    */
+
+
+//    'fill' => 'Fill all form field to go to next step',
+    'delete' => 'deleted successfully',
+    'edit' => 'edited successfully',
+    'add' => 'added successfully',
+    'sure' => 'Are you sure !',
+    'edit_q' => 'Edit question',
+    'edit_button' => 'Edit',
+    'add_button' => 'Add',
+    'error' => 'error',
+    'saving' => 'Saving..',
+    'sending' => 'Sending..',
+
+];
